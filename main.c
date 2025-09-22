@@ -16,6 +16,6 @@ int main(void) {
 
 //function definition
 int findSum(int x, int y){
-
+    return x+y;
 }
 
