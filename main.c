@@ -9,6 +9,7 @@ int main(void) {
     int num2 = 20;
     int sum1 = findSum(num1, num2);
     printf("sum: %d\n", sum1);
+    printf("mayur");
     
 
     return 0;
