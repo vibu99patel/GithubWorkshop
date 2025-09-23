@@ -10,6 +10,7 @@ int main(void) {
     int sum1 = findSum(num1, num2);
     printf("sum: %d\n", sum1);
     printf("mayur");
+    printf("vaibhavi");
     
 
     return 0;
